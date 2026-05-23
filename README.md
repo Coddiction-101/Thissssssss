@@ -1,6 +1,5 @@
 # NIMCET Complete Preparation Guide
-## For BCA Students with Math Weakness | Free Resources Only
-
+ 
 ---
 
 ## TABLE OF CONTENTS
