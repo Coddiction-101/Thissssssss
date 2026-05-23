@@ -169,7 +169,6 @@ These topics are extremely important for students who:
 
 # Suggested Study Order
 
-```text
 Basic Arithmetic
 ↓
 Fractions & Decimals
@@ -194,6 +193,7 @@ Mental Maths & Speed Building
 
 
 ---
+
 ### Section-wise Breakdown:
 ---
 
@@ -3147,10 +3147,10 @@ DAILY STUDY CHECKLIST
 Date: _____ / _____ / _____
 
 Morning Session (1.5 hours):
-  ☐ Watch learning video (30 min)
-  ☐ Read NCERT/notes (30 min)
-  ☐ Solve basic problems (30 min)
-  ☐ Concept: ________________
+  - [ ] Watch learning video (30 min)
+  - [ ] Read NCERT/notes (30 min)
+  - [ ] Solve basic problems (30 min)
+  - [ ]  Concept: ________________
 
 Evening Session (2 hours):
   ☐ Review yesterday's topic (30 min)
