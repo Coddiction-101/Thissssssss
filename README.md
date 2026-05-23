@@ -45,9 +45,156 @@
 | **Question Type** | Multiple Choice (4 options each) |
 | **Language** | English only |
 
+---
+# Pre-Mathematics Foundation (Before Starting NIMCET Math)
 
+> Goal: Build comfort with calculations, mathematical thinking, and basic manipulation before diving into core NIMCET mathematics.
+
+These topics are extremely important for students who:
+- feel weak in mathematics
+- struggle with calculations
+- forgot school-level basics
+- face difficulty in algebra manipulation
+- fear calculus and higher mathematics
+
+---
+
+## Basic Arithmetic
+- Addition, Subtraction
+- Multiplication, Division
+- BODMAS / PEMDAS
+- Decimal Operations
+- Fraction Operations
+- Simplification Techniques
+
+---
+
+## Fractions & Decimals
+- Proper & Improper Fractions
+- Mixed Fractions
+- Decimal Conversion
+- Comparing Fractions
+- Fraction Simplification
+
+---
+
+## Percentage Basics
+- Percentage Calculation
+- Percentage Increase & Decrease
+- Successive Percentage
+- Fraction ↔ Percentage Conversion
+
+---
+
+## Ratio & Proportion
+- Basic Ratios
+- Simplification of Ratios
+- Direct & Inverse Proportion
+- Partnership Concepts
+- Comparison Problems
+
+---
+
+## Exponents & Powers
+- Laws of Exponents
+- Negative Powers
+- Fractional Powers
+- Scientific Notation
+- Power Simplification
+
+---
+
+## Surds & Radicals
+- Square Roots
+- Cube Roots
+- Radical Simplification
+- Rationalization
+- Surd Operations
+
+---
+
+## Number System Basics
+- Natural Numbers
+- Whole Numbers
+- Integers
+- Rational & Irrational Numbers
+- Prime Numbers
+- Divisibility Rules
+- HCF & LCM
+
+---
+
+## Algebraic Manipulation Basics
+- Expansion Identities
+- Factorization
+- Linear Expressions
+- Simplifying Algebraic Terms
+- Polynomial Basics
+
+---
+
+## Equation Solving Basics
+- Linear Equations
+- Variable Manipulation
+- Transposition
+- Basic Simultaneous Equations
+
+---
+
+## Speed Mathematics & Mental Calculation
+- Fast Multiplication Tricks
+- Square & Cube Tricks
+- Approximation Techniques
+- Calculation Speed Building
+- Mental Maths Practice
+
+---
+
+## Graph & Visualization Basics
+- Cartesian Plane
+- Coordinate Basics
+- Plotting Points
+- Understanding Graphs
+- Basic Function Visualization
+
+---
+
+## Mathematical Thinking Skills
+- Pattern Recognition
+- Logical Observation
+- Step-by-Step Problem Solving
+- Analytical Thinking Basics
+
+---
+
+# Suggested Study Order
+
+```text
+Basic Arithmetic
+↓
+Fractions & Decimals
+↓
+Percentage
+↓
+Ratio & Proportion
+↓
+Exponents & Powers
+↓
+Surds & Radicals
+↓
+Number System
+↓
+Algebraic Manipulation
+↓
+Equation Solving
+↓
+Graphs & Visualization
+↓
+Mental Maths & Speed Building
+
+
+---
 ### Section-wise Breakdown:
-
 ---
 
 # Section A: Mathematics (60 questions, 240 marks)
