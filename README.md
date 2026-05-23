@@ -45,29 +45,251 @@
 | **Question Type** | Multiple Choice (4 options each) |
 | **Language** | English only |
 
+
 ### Section-wise Breakdown:
 
-**Section A: Mathematics (60 questions, 240 marks)**
-- Algebra (8-10 questions)
-- Coordinate Geometry (6-8 questions)
-- Calculus (10-12 questions)
-- Trigonometry (6-8 questions)
-- Probability & Statistics (8-10 questions)
-- Matrices & Determinants (6-8 questions)
-- Modern Math (4-6 questions)
+---
 
-**Section B: Logical Reasoning & Aptitude (40 questions, 160 marks)**
-- Logical reasoning
-- Data interpretation
-- Quantitative reasoning
-- Analytical skills
+# Section A: Mathematics (60 questions, 240 marks)
 
-**Section C: Computer Fundamentals & Programming (20 questions, 80 marks)**
-- Basic programming concepts
-- Data structures
-- Algorithm basics
-- Computer organization
+## Algebra (8–10 questions)
+- Sets, Relations & Functions
+- Types of Functions
+- Domain & Range
+- Logarithms
+- Laws of Indices
+- Quadratic Equations
+- Theory of Equations
+- Complex Numbers
+- Sequence & Series
+  - AP
+  - GP
+  - HP
+- Binomial Theorem
+- Permutation & Combination
+- Mathematical Induction
+- Partial Fractions
+- Inequalities
+- Progressions
+- Exponents & Surds
+- Modulus Functions
+- Linear Equations
+- Simultaneous Equations
 
+---
+
+## Coordinate Geometry (6–8 questions)
+- Distance Formula
+- Section Formula
+- Slope of Line
+- Equation of Straight Line
+- Pair of Straight Lines
+- Angle Between Two Lines
+- Circle
+- Tangent & Normal
+- Parabola
+- Ellipse
+- Hyperbola
+- Coordinate Transformations
+- Locus Problems
+
+---
+
+## Calculus (10–12 questions)
+- Functions & Graphs
+- Limits
+- Continuity
+- Differentiability
+- Differentiation
+- Chain Rule
+- Implicit Differentiation
+- Application of Derivatives
+  - Maxima & Minima
+  - Tangent & Normal
+  - Rate of Change
+- Integration
+  - Indefinite Integration
+  - Definite Integration
+- Methods of Integration
+- Area Under Curve
+- Differential Equations (basic)
+- Increasing & Decreasing Functions
+
+---
+
+## Trigonometry (6–8 questions)
+- Trigonometric Ratios
+- Trigonometric Identities
+- Compound Angles
+- Multiple & Submultiple Angles
+- Heights & Distances
+- Inverse Trigonometric Functions
+- Properties of Triangle
+- Solution of Trigonometric Equations
+- Graphs of Trigonometric Functions
+
+---
+
+## Probability & Statistics (8–10 questions)
+- Basic Probability
+- Conditional Probability
+- Bayes Theorem
+- Independent & Dependent Events
+- Random Variables
+- Mean
+- Median
+- Mode
+- Variance
+- Standard Deviation
+- Probability Distributions (basic)
+- Data Interpretation Basics
+
+---
+
+## Matrices & Determinants (6–8 questions)
+- Types of Matrices
+- Matrix Operations
+- Transpose of Matrix
+- Inverse of Matrix
+- Determinants
+- Properties of Determinants
+- Adjoint & Inverse
+- Solution of Linear Equations
+- Rank of Matrix
+- Cramer's Rule
+
+---
+
+## Modern Math (4–6 questions)
+- Boolean Algebra
+- Mathematical Logic
+- Venn Diagrams
+- Set Operations
+- Relations & Functions
+- Vector Algebra
+- Basic Graph Theory
+- Number System
+- Binary & Decimal Conversion
+- Basic Combinatorics
+
+---
+
+# Section B: Logical Reasoning & Aptitude (40 questions, 160 marks)
+
+## Logical Reasoning
+- Coding-Decoding
+- Blood Relations
+- Direction Sense
+- Seating Arrangement
+- Puzzles
+- Syllogism
+- Statement & Conclusion
+- Statement & Assumption
+- Cause & Effect
+- Analogy
+- Classification
+- Series Completion
+- Logical Sequence
+
+---
+
+## Data Interpretation
+- Tables
+- Pie Charts
+- Bar Graphs
+- Line Graphs
+- Caselets
+- Percentage Analysis
+- Ratio-based DI
+- Missing Data Interpretation
+
+---
+
+## Quantitative Reasoning
+- Percentage
+- Profit & Loss
+- Ratio & Proportion
+- Time & Work
+- Time, Speed & Distance
+- Simple & Compound Interest
+- Average
+- Partnership
+- Mixture & Allegation
+- Number System
+- Simplification
+
+---
+
+## Analytical Skills
+- Critical Reasoning
+- Decision Making
+- Problem Solving
+- Pattern Recognition
+- Logical Analysis
+- Data Sufficiency
+- Input-Output Patterns
+- Arrangement Problems
+
+---
+
+# Section C: Computer Fundamentals & Programming (20 questions, 80 marks)
+
+## Computer Fundamentals
+- History of Computers
+- Generations of Computers
+- Input & Output Devices
+- CPU & Memory
+- Primary & Secondary Storage
+- Number System
+- Binary Arithmetic
+- Computer Architecture Basics
+- Operating Systems Basics
+- Process & Memory Management
+- File Management
+- Computer Networks Basics
+- Internet Fundamentals
+- DBMS Basics
+- Software vs Hardware
+
+---
+
+## Basic Programming Concepts
+- Programming Logic
+- Flowcharts
+- Pseudocode
+- Variables & Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Arrays
+- Strings
+- Recursion Basics
+
+---
+
+## Data Structures
+- Arrays
+- Linked Lists
+- Stack
+- Queue
+- Trees
+- Graph Basics
+- Searching Algorithms
+- Sorting Algorithms
+- Time Complexity Basics
+
+---
+
+## Algorithm Basics
+- Algorithm Design
+- Complexity Analysis
+- Step Counting
+- Searching Techniques
+- Sorting Techniques
+- Recursion
+- Problem Solving Approaches
+  
 ---
 
 ## 1.3 DIFFICULTY LEVEL: REALISTIC ASSESSMENT
