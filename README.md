@@ -3110,7 +3110,4 @@ Current: 82% (keep going)
 You've got this. Start today.
 
 ---
-
-*Last Updated: May 2026*
-*For: BCA students preparing for NIMCET*
-*Prepared with focus on: Free resources, realistic timelines, practical execution*
+ 
