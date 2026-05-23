@@ -1,7 +1,6 @@
 # NIMCET Complete Preparation Guide
  
----
-
+  
 ## TABLE OF CONTENTS
 
 1. NIMCET Complete Breakdown
